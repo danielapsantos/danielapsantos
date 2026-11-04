@@ -1,6 +1,6 @@
 # Hi there, I'm Daniela Pinheiro 👋
 
-### 👩‍💻 Junior Front-end Developer | React.js • JavaScript • TypeScript • Web UI • Angular • Kotlin • Java
+### 👩‍💻 Junior Developer | React.js • JavaScript • TypeScript • Web UI • Angular • Kotlin • Java
 
 Software Developer with hands-on experience in **Android Development (Kotlin & Java)** and **Web Front-End (React & JavaScript)**. Experienced in building responsive and reusable user interfaces, integrating RESTful APIs, state management, and SQL database queries.
 
